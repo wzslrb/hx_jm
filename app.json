@@ -1,14 +1,14 @@
 {
     "name": "HX Project",
-    "description": "Powered By Misaka-blog",
+    "description": "67039.ga",
     "keywords": [],
     "env": {
         "UUID": {
             "description": "UUID，Can generated at https://www.uuidgenerator.net/",
-            "value": "1eb6e917-774b-4a84-aff6-b058577c60a5"
+            "value": "4ec1888b-a57b-4863-9d8e-e5c32830ce55"
         }
     },
-    "website": "https://owo.misaka.rest",
-    "repository": "https://github.com/Misaka-blog/HX",
+    "website": "https://lcrm2.67039.ga",
+    "repository": "https://github.com/wzslrb/hx_jm",
     "stack": "container"
 }
